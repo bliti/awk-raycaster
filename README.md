@@ -13,7 +13,7 @@ OS X users must install gawk first.
 
 Using Homebrew do:
 
-    homebrew update
+    brew update
     	
     brew install gawk
 
