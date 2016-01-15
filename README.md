@@ -14,7 +14,6 @@ OS X users must install gawk first.
 Using Homebrew do:
 
     brew update
-    	
     brew install gawk
 
 Your machine will now be ready to run it.
